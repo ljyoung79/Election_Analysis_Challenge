@@ -26,6 +26,7 @@ The results of this audit show:
 -There were 369,711 total votes cast in this election
 
 -There were 3 counties in this election:
+
   Jefferson County (38,855 votes cast for 10.5%)
   
   Denver County (306,055 votes cast for 82.8%)
